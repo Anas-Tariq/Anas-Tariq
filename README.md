@@ -1,8 +1,6 @@
 ### Greetings, I'm Anas 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on tadresmisr Website
 - 🌱 I’m currently learning Reactjs
 - 👯 I’m looking to collaborate on Reactjs
