@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: coding makes me laugh
 
-<h2><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="50"> Contributed Project</h2>
+<h2><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png"> Contributed Project</h2>
 <ul>
   <li><a href="https://www.total.eg/">Total Egypt Gas Station (Website)</a></li>
   <li><a href="https://www.microvad.com/">MicroVAD (Website)</a></li>
@@ -27,8 +27,8 @@ Here are some ideas to get you started:
   <li><a href="https://www.hayateg.com/">Hayat (Website)</a></li>
 </ul>
 
-<h2> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png" width="50"> My Skills</h2>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+<h2> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png"> My Skills</h2>
+<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
