@@ -8,7 +8,7 @@
 - 💬 Ask me about Front-End Development process
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anas-tariq-15b569113/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: coding makes me laugh
+
 
 <h2><img width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png"> Contributed Project</h2>
 <ul>
