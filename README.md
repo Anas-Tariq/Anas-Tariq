@@ -10,5 +10,6 @@
 - 😄 Pronouns: He/His
 
 
-<h2> <img width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png"> My Skills</h2>[My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,github,jest,npm,nodejs,express,postman,react,vite,vscode)(https://skillicons.dev)
+<h2> <img width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png"> My Skills</h2>
+[My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,github,jest,npm,nodejs,express,postman,react,vite,vscode)(https://skillicons.dev)
 
